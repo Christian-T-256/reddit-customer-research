@@ -1,0 +1,137 @@
+{
+  "niche": "appointment reminder software for independent dental practices",
+  "collected_on": "2026-02-12",
+  "subreddits": [
+    "FictionalDentalOps",
+    "FictionalPractice"
+  ],
+  "competitors": [
+    "Northwind Scheduler",
+    "Blue Harbor Recall",
+    "Maple Finch Forms"
+  ],
+  "posts": [
+    {
+      "id": "demo101",
+      "title": "How are small practices reducing last minute gaps?",
+      "selftext": "Our fictional practice still confirms every appointment by hand.",
+      "subreddit": "FictionalDentalOps",
+      "score": 84,
+      "num_comments": 31,
+      "permalink": "https://example.com/r/FictionalDentalOps/comments/demo101"
+    },
+    {
+      "id": "demo102",
+      "title": "Would you switch reminder tools during a busy quarter?",
+      "selftext": "Looking for lessons from other fictional office managers.",
+      "subreddit": "FictionalPractice",
+      "score": 61,
+      "num_comments": 26,
+      "permalink": "https://example.com/r/FictionalPractice/comments/demo102"
+    },
+    {
+      "id": "demo103",
+      "title": "Reminder platforms that connect to an older calendar",
+      "selftext": "Integration and staff training are the main questions.",
+      "subreddit": "FictionalDentalOps",
+      "score": 43,
+      "num_comments": 18,
+      "permalink": "https://example.com/r/FictionalDentalOps/comments/demo103"
+    },
+    {
+      "id": "demo104",
+      "title": "What patients say about text confirmations",
+      "selftext": "A fictional discussion about timing and message clarity.",
+      "subreddit": "FictionalPractice",
+      "score": 37,
+      "num_comments": 14,
+      "permalink": "https://example.com/r/FictionalPractice/comments/demo104"
+    }
+  ],
+  "comments": [
+    {
+      "body": "The no show scramble is exhausting. We do double entry every morning and still miss schedule changes.",
+      "score": 42,
+      "thread_title": "How are small practices reducing last minute gaps?",
+      "thread_url": "https://example.com/r/FictionalDentalOps/comments/demo101",
+      "subreddit": "FictionalDentalOps"
+    },
+    {
+      "body": "We finally switched when the no show scramble started taking an hour every day. Northwind Scheduler has been reliable.",
+      "score": 35,
+      "thread_title": "How are small practices reducing last minute gaps?",
+      "thread_url": "https://example.com/r/FictionalDentalOps/comments/demo101",
+      "subreddit": "FictionalDentalOps"
+    },
+    {
+      "body": "Double entry takes forever because our calendar and reminder list never agree.",
+      "score": 31,
+      "thread_title": "Reminder platforms that connect to an older calendar",
+      "thread_url": "https://example.com/r/FictionalDentalOps/comments/demo103",
+      "subreddit": "FictionalDentalOps"
+    },
+    {
+      "body": "Northwind Scheduler works, but the annual contract makes switching feel risky for a three person front desk.",
+      "score": 28,
+      "thread_title": "Would you switch reminder tools during a busy quarter?",
+      "thread_url": "https://example.com/r/FictionalPractice/comments/demo102",
+      "subreddit": "FictionalPractice"
+    },
+    {
+      "body": "I would only sign up month to month. Switching feels risky when migration and staff training happen together.",
+      "score": 26,
+      "thread_title": "Would you switch reminder tools during a busy quarter?",
+      "thread_url": "https://example.com/r/FictionalPractice/comments/demo102",
+      "subreddit": "FictionalPractice"
+    },
+    {
+      "body": "Blue Harbor Recall was easy to learn, but double entry is still a problem with our old calendar.",
+      "score": 24,
+      "thread_title": "Reminder platforms that connect to an older calendar",
+      "thread_url": "https://example.com/r/FictionalDentalOps/comments/demo103",
+      "subreddit": "FictionalDentalOps"
+    },
+    {
+      "body": "We signed up after two missed confirmations in one week. The owner wanted fewer gaps, not another dashboard.",
+      "score": 23,
+      "thread_title": "How are small practices reducing last minute gaps?",
+      "thread_url": "https://example.com/r/FictionalDentalOps/comments/demo101",
+      "subreddit": "FictionalDentalOps"
+    },
+    {
+      "body": "Maple Finch Forms looks simple, although the migration price is expensive for a small office.",
+      "score": 21,
+      "thread_title": "Would you switch reminder tools during a busy quarter?",
+      "thread_url": "https://example.com/r/FictionalPractice/comments/demo102",
+      "subreddit": "FictionalPractice"
+    },
+    {
+      "body": "Month to month matters. I do not want an annual contract before we know patients will answer the texts.",
+      "score": 19,
+      "thread_title": "What patients say about text confirmations",
+      "thread_url": "https://example.com/r/FictionalPractice/comments/demo104",
+      "subreddit": "FictionalPractice"
+    },
+    {
+      "body": "Our manual call sheet is a headache. The no show scramble pushes lunch later at least twice a week.",
+      "score": 17,
+      "thread_title": "How are small practices reducing last minute gaps?",
+      "thread_url": "https://example.com/r/FictionalDentalOps/comments/demo101",
+      "subreddit": "FictionalDentalOps"
+    },
+    {
+      "body": "Blue Harbor Recall is helpful for texts, but its reporting is confusing and staff training took longer than expected.",
+      "score": 15,
+      "thread_title": "Reminder platforms that connect to an older calendar",
+      "thread_url": "https://example.com/r/FictionalDentalOps/comments/demo103",
+      "subreddit": "FictionalDentalOps"
+    },
+    {
+      "body": "Switching feels risky, so show me the migration steps and let us start month to month.",
+      "score": 13,
+      "thread_title": "Would you switch reminder tools during a busy quarter?",
+      "thread_url": "https://example.com/r/FictionalPractice/comments/demo102",
+      "subreddit": "FictionalPractice"
+    }
+  ]
+}
